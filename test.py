@@ -1,4 +1,3 @@
-str = "Omkar"
+str = "Kanishka Chordiya"
 
-for ch in str:
-    print(ch, end=" ")
+print(str[::-1])
